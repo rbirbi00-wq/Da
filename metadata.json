@@ -1,0 +1,7 @@
+{
+  "name": "Professional Appointment Manager",
+  "description": "An elegant appointment manager for Hamburg, featuring manual, automatic, and AI-powered smart scheduling to organize your day efficiently.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
